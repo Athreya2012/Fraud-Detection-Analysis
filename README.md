@@ -2,8 +2,16 @@
 
 In collaboration with Nava Kumar Sajjan https://github.com/sajjansaju
 
-Dataset - 
+Dataset - Publicly available on Kaggle
 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?select=AIML+Dataset.csv
+
+## 🛡️ License
+
+This project is licensed under the CC BY-NC-ND 4.0 License.  
+Unauthorized reposting or modification is strictly prohibited.  
+[View License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+📩 For access or collaboration requests, please email me at: athreya201297@gmail.com
 
 
 --Basic Queries to understand dataset
