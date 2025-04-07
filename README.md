@@ -1,5 +1,7 @@
 # Fraud-Detection-Analysis  
 
+In collaboration with Nava Kumar Sajjan https://github.com/sajjansaju
+
 Dataset - 
 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?select=AIML+Dataset.csv
 
